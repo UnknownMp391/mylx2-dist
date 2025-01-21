@@ -1,0 +1,1 @@
+import{o,g as e,h as n,i as s,B as r,A as c}from"./vendor-DHGCqLyH.js";const i={class:"account-bar"},_=["src"],l={class:"name"},p={__name:"AccountBar",props:{name:String,avatarUrl:String,loading:Boolean},setup(t){c();const a=t;return o(async()=>{}),(u,d)=>(e(),n("div",i,[s("mdui-avatar",{src:a.avatarUrl},null,8,_),s("div",l,r(a.name),1)]))}};export{p as _};

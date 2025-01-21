@@ -1,0 +1,1 @@
+import{d as n,r as o}from"./vendor-DHGCqLyH.js";const m=n("homePage",()=>(page=o(""),{page})),a=n("homeScroll",()=>{scroll=o({});function r(e,s){return scroll[e]=s}function t(e){return scroll[e]||0}return{scroll,savePosition:r,getPosition:t}}),l=n("recommendData",()=>{const r=o([]),t=o(0),e=o(!0);return{recommends:r,lastRecommend:t,moreRecommend:e}});export{m as a,a as b,l as u};
